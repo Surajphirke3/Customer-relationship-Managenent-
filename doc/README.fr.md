@@ -2,19 +2,19 @@
 
 
 <div align="center">
-    <a href="https://www.idurarapp.com/">
-  <img src="https://avatars.githubusercontent.com/u/50052356?s=200&v=4" width="128px" />
+    <a href="https://github.com/surajphirke">
+  <img src="https://via.placeholder.com/128x128/007bff/ffffff?text=Nextus" width="128px" />
     </a>
     <h1>Open "Fair-Code" Source ERP / CRM | Node.js React.js</h1>
     <p align="center">
-        <p>IDURAR ERP CRM | Simple à utiliser | 44 Langues </p>
+        <p>Nextus ERP CRM | Simple à utiliser | 44 Langues </p>
     </p>
     
-  [www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
+  [github.com/surajphirke/erp-crm](https://github.com/surajphirke/erp-crm)
 
 ## 🇦🇱 🇩🇿 🇧🇩 🇧🇬 🇨🇳 🇭🇷 🇨🇿 🇩🇰 🇳🇱 🇺🇸 🇪🇪 🇫🇷 🇩🇪 🇬🇷 🇮🇳 🇭🇺 🇮🇩 🇮🇹 🇯🇵 🇰🇷 🇱🇻 🇱🇹 🇲🇰 🇲🇾 🇳🇴 🇵🇱 🇧🇷 🇵🇹 🇮🇷 🇷🇴 🇷🇺 🇸🇰 🇸🇮 🇪🇸 🇸🇪 🇹🇭 🇹🇷 🇺🇦 🇵🇰 🇻🇳 🇷🇸 🇪🇦 🇵🇭 🇫🇮
 
-IDURAR est un Open "Fair-Code" Source ERP / CRM (Facturation / Inventaire / Comptabilité / RH) Basé sue le Mern Stack avancé (Node.js / Express.js / MongoDb / React.js ) avec Ant Design (AntD) et Redux
+Nextus ERP CRM est un Open "Fair-Code" Source ERP / CRM (Facturation / Inventaire / Comptabilité / RH) Basé sue le Mern Stack avancé (Node.js / Express.js / MongoDb / React.js ) avec Ant Design (AntD) et Redux
 
 </div>
 

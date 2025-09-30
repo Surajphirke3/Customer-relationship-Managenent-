@@ -20,11 +20,11 @@ const DefaultApp = () => (
   </Localization>
 );
 
-export default function IdurarOs() {
+export default function ErpCrmApp() {
   const { isLoggedIn } = useSelector(selectAuth);
 
   console.log(
-    '🚀 Welcome to IDURAR ERP CRM! Did you know that we also offer commercial customization services? Contact us at hello@idurarapp.com for more information.'
+    '🚀 Welcome to Nextus ERP CRM! A powerful open-source business management system.'
   );
 
   // // Online state

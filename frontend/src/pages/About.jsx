@@ -7,23 +7,23 @@ const About = () => {
   return (
     <Result
       status="info"
-      title={'IDURAR'}
+      title={'Nextus ERP CRM'}
       subTitle={translate('Do you need help on customize of this app')}
       extra={
         <>
           <p>
-            Website : <a href="https://www.idurarapp.com">www.idurarapp.com</a>{' '}
+            Website : <a href="https://github.com/surajphirke">github.com/surajphirke</a>{' '}
           </p>
           <p>
             GitHub :{' '}
-            <a href="https://github.com/idurar/idurar-erp-crm">
-              https://github.com/idurar/idurar-erp-crm
+            <a href="https://github.com/surajphirke/erp-crm">
+              https://github.com/surajphirke/erp-crm
             </a>
           </p>
           <Button
             type="primary"
             onClick={() => {
-              window.open(`https://www.idurarapp.com/contact-us/`);
+              window.open(`https://github.com/surajphirke/erp-crm`);
             }}
           >
             {translate('Contact us')}
