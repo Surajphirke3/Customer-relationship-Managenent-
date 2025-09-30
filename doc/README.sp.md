@@ -2,19 +2,19 @@
 
 
 <div align="center">
-    <a href="https://www.idurarapp.com/">
-  <img src="https://avatars.githubusercontent.com/u/50052356?s=200&v=4" width="128px" />
+    <a href="https://github.com/surajphirke">
+  <img src="https://via.placeholder.com/128x128/007bff/ffffff?text=Nextus" width="128px" />
     </a>
     <h1>ERP/CRM de Código Abierto y "Fair-Code" | Node.js React.js</h1>
     <p align="center">
-        <p>IDURAR ERP CRM | Fácil de usar | 44 Idiomas</p>
+        <p>Nextus ERP CRM | Fácil de usar | 44 Idiomas</p>
     </p>
     
-  [www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
+  [github.com/surajphirke/erp-crm](https://github.com/surajphirke/erp-crm)
 
 ## 🇦🇱 🇩🇿 🇧🇩 🇧🇬 🇨🇳 🇭🇷 🇨🇿 🇩🇰 🇳🇱 🇺🇸 🇪🇪 🇫🇷 🇩🇪 🇬🇷 🇮🇳 🇭🇺 🇮🇩 🇮🇹 🇯🇵 🇰🇷 🇱🇻 🇱🇹 🇲🇰 🇲🇾 🇳🇴 🇵🇱 🇧🇷 🇵🇹 🇮🇷 🇷🇴 🇷🇺 🇸🇰 🇸🇮 🇪🇸 🇸🇪 🇹🇭 🇹🇷 🇺🇦 🇵🇰 🇻🇳 🇷🇸 🇪🇦 🇵🇭 🇫🇮
 
-IDURAR es un ERP/CRM de Código Abierto y "Fair-Code" (Facturación/Inventario/Contabilidad/RRHH) basado en Advanced Mern Stack (Node.js/Express.js/MongoDb/React.js) con Ant Design (AntD) y Redux
+Nextus ERP CRM es un ERP/CRM de Código Abierto y "Fair-Code" (Facturación/Inventario/Contabilidad/RRHH) basado en Advanced Mern Stack (Node.js/Express.js/MongoDb/React.js) con Ant Design (AntD) y Redux
 
 </div>
 
@@ -82,7 +82,7 @@ El seminario web será este miércoles a la 1 pm GMT.
 
 ## Aplicación ERP/CRM de Código Abierto y Gratuito
 
-IDURAR es un ERP/CRM de Código Abierto y "Fair-Code" (Facturación/Inventario/Contabilidad/RRHH) basado en Advanced Mern Stack (Node.js/Express.js/MongoDb/React.js) con Ant Design (AntD) y Redux
+Nextus ERP CRM es un ERP/CRM de Código Abierto y "Fair-Code" (Facturación/Inventario/Contabilidad/RRHH) basado en Advanced Mern Stack (Node.js/Express.js/MongoDb/React.js) con Ant Design (AntD) y Redux
 
 **Demo en Vivo** : [https://www.idurarapp.com/demo-erp-crm/](https://www.idurarapp.com/demo-erp-crm/)
 
