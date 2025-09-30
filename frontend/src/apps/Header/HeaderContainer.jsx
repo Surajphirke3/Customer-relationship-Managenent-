@@ -129,5 +129,5 @@ export default function HeaderContent() {
 }
 
 //  console.log(
-//    '🚀 Welcome to IDURAR ERP CRM! Did you know that we also offer commercial customization services? Contact us at hello@idurarapp.com for more information.'
+//    '🚀 Welcome to Nextus ERP CRM! A powerful open-source business management system.'
 //  );
